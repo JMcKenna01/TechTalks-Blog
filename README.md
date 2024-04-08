@@ -46,10 +46,10 @@ TechTalks-Blog is a CMS-style blog platform built with the Model-View-Controller
 
 4. Create a `.env` file in the root directory and add your MySQL credentials and session secret:
 
-DB_NAME='your_db_name'
-DB_USER='your_db_user'
-DB_PASSWORD='your_db_password'
-SESSION_SECRET='your_session_secret'
+- DB_NAME='your_db_name'
+- DB_USER='your_db_user'
+- DB_PASSWORD='your_db_password'
+- SESSION_SECRET='your_session_secret'
 
 5. Run the schema.sql in MySQL to create your database.
 
